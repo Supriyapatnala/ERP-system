@@ -19,3 +19,6 @@ Runs the app in the development mode.
 Open your web browser and visit (http://localhost:3000) to view the ERP System.
 ### Login page
 ![Screenshot 2024-03-14 232013](https://github.com/Supriyapatnala/ERP-system/assets/110665599/2f2a37d1-6111-4c38-99ce-01062e3430b6)
+### Dashboard
+
+![Screenshot 2024-03-14 232032](https://github.com/Supriyapatnala/ERP-system/assets/110665599/8de591ed-da5e-4192-8c39-a3c454dff14b)
