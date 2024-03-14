@@ -22,3 +22,5 @@ Open your web browser and visit (http://localhost:3000) to view the ERP System.
 ### Dashboard
 
 ![Screenshot 2024-03-14 232032](https://github.com/Supriyapatnala/ERP-system/assets/110665599/8de591ed-da5e-4192-8c39-a3c454dff14b)
+### Add product
+![Screenshot 2024-03-14 232057](https://github.com/Supriyapatnala/ERP-system/assets/110665599/5f92ddcb-4897-4bf4-9472-318cf772e146)
