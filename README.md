@@ -17,3 +17,5 @@ npm start
 Runs the app in the development mode.
 
 Open your web browser and visit (http://localhost:3000) to view the ERP System.
+### Login page
+![Screenshot 2024-03-14 232013](https://github.com/Supriyapatnala/ERP-system/assets/110665599/bbed2d15-729f-4107-8c41-b1af45005300)
